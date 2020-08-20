@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Kapitan.Kubernetes.CertManager</AssemblyName>
+    <RootNamespace>Kapitan.Kubernetes.CertManager</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kapitan.Kubernetes" Version="1.0.0-prerelease-20200819222631" />
+  </ItemGroup>
+
+</Project>
