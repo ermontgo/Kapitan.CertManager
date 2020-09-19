@@ -4,6 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Kanyon.Kubernetes.CertManager</AssemblyName>
     <RootNamespace>Kanyon.Kubernetes.CertManager</RootNamespace>
+    <VersionPrefix>3.0.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
